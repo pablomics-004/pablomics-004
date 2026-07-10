@@ -14,7 +14,7 @@ I'm a third year [Genomic Sciences](https://www.lcg.unam.mx) undergrad at the [N
 ---
 ## Interests
 
-Statistical models and methods, Network theory, Systems biomedicine, Computational biology, Machine and statistical learning.
+Statistical models and methods, Network theory, Systems biomedicine, Computational biology, Multiomics integration, Machine and Statistical learning.
 
 ---
 ## Technical skills
