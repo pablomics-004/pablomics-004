@@ -32,8 +32,6 @@ Statistical models and methods, Network theory, Systems biomedicine, Computation
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r" align="center" />
-  </a>
-  <img src="https://img.shields.io/badge/Nextflow-151515?style=for-the-badge&logo=nextflow&logoColor=white" height="48" align="center" />
 </p>
 
 * Elementary proficiency:
@@ -43,4 +41,6 @@ Statistical models and methods, Network theory, Systems biomedicine, Computation
     <img src="https://skillicons.dev/icons?i=c" align="center" />
   </a>
   <img src="https://img.shields.io/badge/Numba-151515?style=for-the-badge&logo=numba&logoColor=white" height="48" align="center" />
+  </a>
+  <img src="https://img.shields.io/badge/Nextflow-151515?style=for-the-badge&logo=nextflow&logoColor=white" height="48" align="center" />
 </p>
