@@ -21,11 +21,25 @@ Statistical models and methods, Network theory, Systems biomedicine, Computation
 ## Technical skills
 
 * Advanced proficiency:
-[![Python](https://img.shields.io/badge/-Python-151515?style=flat&logo=python)]()
-[![Julia](https://img.shields.io/badge/-Julia-151515?style=flat&logo=julia)]()
-[![Bash](https://img.shields.io/badge/-Bash-151515?style=flat&logo=gnu-bash&logoColor=white)]()
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=julia,python,bash" />
+  </a>
+</p>
+
 * Intermediate profeciency:
-[![R](https://img.shields.io/badge/-R-151515?style=flat&logo=r)]()
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r" />
+  </a>
+</p>
+
 * Elementary proficiency:
-[![Numba](https://img.shields.io/badge/-Numba-151515?style=flat&logo=numba&logoColor=white)]()
-[![C](https://img.shields.io/badge/-C-151515?style=flat&logo=c&logoColor=white)]()
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Numba,C" />
+  </a>
+</p>
