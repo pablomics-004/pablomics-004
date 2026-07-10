@@ -44,3 +44,11 @@ Statistical models and methods, Network theory, Systems biomedicine, Computation
   </a>
   <img src="https://img.shields.io/badge/Nextflow-151515?style=for-the-badge&logo=nextflow&logoColor=white" height="48" align="center" />
 </p>
+
+---
+## Languages
+
+* Spanish: native
+* English: B2 (TOEFL-ITP: 610)
+* German: beginner
+* Chinese: beginner 
