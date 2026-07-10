@@ -40,6 +40,6 @@ Statistical models and methods, Network theory, Systems biomedicine, Computation
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Numba,C" />
+    <img src="https://skillicons.dev/icons?i=numba,c" />
   </a>
 </p>
