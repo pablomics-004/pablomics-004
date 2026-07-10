@@ -1,16 +1,31 @@
-## Hi there 👋
+# Howdy! I'm Pablo Salazar-Méndez
 
-<!--
-**pablomics-004/pablomics-004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a third year [Genomic Sciences](https://www.lcg.unam.mx) undergrad at the [National Autonomus University of Mexico's (UNAM)](https://www.unam.mx) [Center for Genomic Sciences](https://www.ccg.unam.mx/en/). I have a keen interest in bioinformatics, computational biology and probabilistic modelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+---
+
+### Systems biology
+
+* **Network dissimilarity algorithms** to compare through topological properties complex systems represented as graphs.
+* **MCMC** algorithms to explore the parameters space of a given genetic model seeking to find the most likely set of parameters that better explains the data.
+* **Organizational landscape** of complex system networks ranging from biological (_i.e._ regulatory, metabolic, genetic communities) to social (_i.e._ social media, political contact) with the aim of discovering structural or topological proporties particular to each domain.
+
+## Interests
+---
+
+Statistical models and methods, Network theory, Systems biomedicine, Computational biology, Machine and statistical learning.
+
+## Technical skills
+
+* Advanced proficiency:
+[![Python](https://img.shields.io/badge/-Python-151515?style=flat&logo=python)]()
+[![Julia](https://img.shields.io/badge/-Julia-151515?style=flat&logo=julia)]()
+[![Bash](https://img.shields.io/badge/-Bash-151515?style=flat&logo=gnu-bash&logoColor=white)]()
+* Intermediate profeciency:
+[![R](https://img.shields.io/badge/-R-151515?style=flat&logo=r)]()
+* Elementary proficiency:
+[![Numba](https://img.shields.io/badge/-Numba-151515?style=flat&logo=numba&logoColor=white)]()
+[![C](https://img.shields.io/badge/-C-151515?style=flat&logo=c&logoColor=white)]()
