@@ -50,5 +50,3 @@ Statistical models and methods, Network theory, Systems biomedicine, Computation
 
 * Spanish: native
 * English: B2 (TOEFL-ITP: 610)
-* German: beginner
-* Chinese: beginner 
